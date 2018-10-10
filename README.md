@@ -1,8 +1,8 @@
 G1T4, Fusen, Song Wei, Clare, Thomas, Gerald
 
-Model folder includes files:
-- "data sets" folder (3 .csv files)
-- Python code (1 .py file)
+The following files are included:
+- "data sets" folder
+- Python code (python 146.py file)
 - our final output .csv file (.csv file)
 
 How do we set up the environment and run the model?
@@ -19,11 +19,3 @@ How do we get the Kaggle results?
 - Go to Rossmann submission page (https://www.kaggle.com/c/rossmann-store-sales/submissions/attach)
 - Upload the output .csv
 - Wait and see the score and ranking (1-3 minutes)
-
-
-
-
-
-
-
-
